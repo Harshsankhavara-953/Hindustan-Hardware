@@ -2,11 +2,6 @@
 
 An interactive PHP-based web application for browsing and managing hardware products. Designed with simplicity and efficiency in mind, Hindustan Hardware serves as a practical showcase of backend logic, database operations, and frontend presentation using HTML/CSS/JS.
 
----
-
-## 🚀 Live Demo
-
-👉 [Live Website](#) *(Add your hosted link here)*
 
 ---
 
